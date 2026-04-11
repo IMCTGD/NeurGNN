@@ -1,5 +1,5 @@
-# NViG
-NViG: A 3D Visual Graph Neural Network for Neuroimaging Analysis
+# NeurGNN
+NeurGNN: A 3D Graph Neural Network for Interpretable Neuroimaging Analysis
 
 ## Open-Source Release
 
