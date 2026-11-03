@@ -3,7 +3,7 @@ NeurGNN: A 3D Graph Neural Network for Interpretable Neuroimaging Analysis
 
 ## Open-Source Release
 
-The complete implementation of NeurGNN will be made publicly available upon acceptance of the manuscript. Please stay tuned for future updates.
+The official NeurGNN code was released on November 3, 2026.
 
 ## Supplementary Material
 The supplementary material provides more detailed experimental results. **(Supplementary_Material.pdf)**
